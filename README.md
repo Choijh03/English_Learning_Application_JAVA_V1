@@ -28,6 +28,16 @@ Available Functionalities:
 
 - Word Memorization Games: Quiz and Matching the words:
 
+![7](https://user-images.githubusercontent.com/98497929/215623923-4213cf9f-e29f-43e5-bac0-75e5c52a3038.PNG)
+
+![8](https://user-images.githubusercontent.com/98497929/215623933-19a092e6-7a8e-4a4b-90df-0fc1701ddc6c.PNG)
+
+![9](https://user-images.githubusercontent.com/98497929/215623947-a62ac6b9-435a-4ce3-854b-3fa29ccee2a6.PNG)
+
+![10](https://user-images.githubusercontent.com/98497929/215623954-a4b087f3-388b-4162-b06b-e7d0bd613afa.PNG)
+
+![11](https://user-images.githubusercontent.com/98497929/215623961-2b60d80d-6dd2-48bd-8377-aaa247566eef.PNG)
+
 - Cultural Situation: Recycling and Restaurant:
 
 
