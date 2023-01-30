@@ -16,6 +16,10 @@ Available Functionalities:
 
 - Translation by using Naver papago API: Korean to English & English to Korean:
 
+![3](https://user-images.githubusercontent.com/98497929/215623556-68f8c329-68bd-4cb0-836b-d768a0a1b5e9.PNG)
+
+![4](https://user-images.githubusercontent.com/98497929/215623568-8781fe70-9ddc-46af-ab34-e638554a8fee.PNG)
+
 - Text detection by using Camera (Firebase Machine Learning Model used):
 
 - Word Memorization Games: Quiz and Matching the words:
