@@ -21,6 +21,10 @@ Available Functionalities:
 ![4](https://user-images.githubusercontent.com/98497929/215623568-8781fe70-9ddc-46af-ab34-e638554a8fee.PNG)
 
 - Text detection by using Camera (Firebase Machine Learning Model used):
+- 
+![5](https://user-images.githubusercontent.com/98497929/215623699-2140ecc2-de46-469b-9abb-f52eb810b16e.PNG)
+
+![6](https://user-images.githubusercontent.com/98497929/215623713-f13837e5-f8e2-4780-be32-6c2741d23e12.PNG)
 
 - Word Memorization Games: Quiz and Matching the words:
 
