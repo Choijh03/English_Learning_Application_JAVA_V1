@@ -10,6 +10,10 @@ Available Functionalities:
 
 - 3000 most common day to day English words offered:
 
+![1](https://user-images.githubusercontent.com/98497929/215623437-d351cc6d-3c66-416a-be70-5ba8c8804a02.PNG)
+
+![2](https://user-images.githubusercontent.com/98497929/215623449-ae34066c-4deb-4ab6-946e-081212bd4974.PNG)
+
 - Translation by using Naver papago API: Korean to English & English to Korean:
 
 - Text detection by using Camera (Firebase Machine Learning Model used):
