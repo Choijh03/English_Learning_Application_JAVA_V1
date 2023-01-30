@@ -8,8 +8,16 @@ This app is to help Korean English learners to have better understanding of Amer
 
 Available Functionalities:
 
--Translation by using papago API: Korean to English & English to Korean
+- 3000 most common day to day English words offered:
 
--
+- Translation by using Naver papago API: Korean to English & English to Korean:
+
+- Text detection by using Camera (Firebase Machine Learning Model used):
+
+- Word Memorization Games: Quiz and Matching the words:
+
+- Cultural Situation: Recycling and Restaurant:
+
+
 
 
