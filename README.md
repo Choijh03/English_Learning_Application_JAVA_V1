@@ -40,6 +40,17 @@ Available Functionalities:
 
 - Cultural Situation: Recycling and Restaurant:
 
+![12](https://user-images.githubusercontent.com/98497929/215624233-4094ead8-319e-4f25-9a46-8a8caaa6b461.PNG)
+
+![13](https://user-images.githubusercontent.com/98497929/215624248-151565a8-43c8-41f3-8695-bcdde184f46a.PNG)
+
+![14](https://user-images.githubusercontent.com/98497929/215624258-d88f6162-8013-46c7-827c-ec8f51eede73.PNG)
+
+![15](https://user-images.githubusercontent.com/98497929/215624272-6b863ce1-a999-4c72-b53b-a4b560d21e7a.PNG)
+
+![16](https://user-images.githubusercontent.com/98497929/215624278-441ed7c9-d494-4972-ba4d-b2b730e61260.PNG)
+
+
 
 
 
