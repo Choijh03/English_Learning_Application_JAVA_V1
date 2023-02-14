@@ -1,6 +1,6 @@
 # English_Learning_Application_JAVA
 
-This is English Learning Application built on Android Studio (Dolphin version) during Winter 2022-2023 (November, December, January) -JAVA
+This is first version of English Learning Application built on Android Studio (Dolphin version) during Winter 2022-2023 (November, December, January) -JAVA
 
 ------------------------------------------------------------------------------------------------------------
 
